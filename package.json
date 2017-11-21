@@ -1,8 +1,8 @@
 {
-  "name": "iview",
+  "name": "iview-cc",
   "version": "2.7.3",
   "title": "iView",
-  "description": "A high quality  UI components Library with Vue.js",
+  "description": "cocall专用iview",
   "homepage": "http://www.iviewui.com",
   "keywords": [
     "iview",
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iview/iview"
+    "url": "https://github.com/lulg/iview"
   },
   "author": "Aresn",
   "license": "MIT",
